@@ -31,8 +31,5 @@ App::uses('Controller', 'Controller');
  * @package       app.Controller
  */
 class AppController extends Controller {
-	public function beforeRender() {
-        $this->viewClass = 'Theme';
-        $this->theme = 'Bootstrap';
-    }
+	
 }
