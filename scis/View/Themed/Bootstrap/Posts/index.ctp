@@ -1,0 +1,60 @@
+<div class="row-fluid">
+        <div class="span3">
+          <div class="well sidebar-nav">
+            <ul class="nav nav-list">
+              <li class="nav-header">Actions</li>
+              <li class="active"><a href="#">Index</a></li>
+              <li><?php 
+                    echo $this->Html->link('Add data', 
+                      array('action'=>'add'),
+                      array('class'=>'')); 
+                  ?>
+              </li>
+            </ul>
+          </div><!--/.well -->
+        </div><!--/span-->
+    <div class="span9">
+      <div class="row-fluid">
+        <?php if($results): ?>
+
+            <div class="span4">
+              <h2>Posts</h2>
+              <p>
+                <table class="span9 table-striped table-bordered table-condensed">
+                  <tr>
+                    <th>_id</th>
+                    <th>Title</th>
+                    <th>Body</th>
+                    <th>Actions</th>
+                  </tr>
+                <?php foreach($results as $result): ?>
+                <tr>
+                  <td><?php echo $result['Post']['_id']; ?></td>
+                  <td><?php echo $result['Post']['title']; ?></td>
+                  <td><?php echo $result['Post']['body']; ?></td>
+                  <td>
+
+                      <?php echo $this->Html->link('edit','edit/'.$result['Post']['_id'],array('class'=>'span1 btn btn-info')); ?>
+                      <?php echo $this->Html->link('delete','delete/'.$result['Post']['_id'],array('class'=>'span1 btn btn-danger')); ?>
+
+                  </td>
+                </tr>
+                <?php endforeach; ?>
+              </table>
+              </p>
+            </div><!--/span-->
+
+        <?php else: ?>
+        <div class="hero-unit">
+            <h1>No posts available !</h1>
+            <p>There are no posts available on the database. Try adding one .</p>
+            <p>
+              <?php echo $this->Html->link('Add Post', array('action'=>'add'),array('class'=>'btn btn-primary btn-large')); ?>
+            </p>
+        </div>
+
+        <?php endif; ?>
+  	</div><!--/row-->
+	</div><!--/span-->
+
+</div><!--/row-->

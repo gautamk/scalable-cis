@@ -9,4 +9,14 @@ class DATABASE_CONFIG {
 		'password' => 'cake',
 		'database' => 'cake',
 	);
+
+	public $mongodb = array(
+		'datasource' => 'Mongodb.MongodbSource',
+		'persistent' => 'false',
+		'port' => 27017,
+		'host' => 'localhost',
+		// 'login' => 'cake',
+		// 'password' => 'cake',
+		'database' => 'cake',
+	);
 }

@@ -1,0 +1,2 @@
+1330512557
+a:2:{i:0;b:0;s:3:"app";a:3:{s:7:"plugins";a:1:{i:0;s:7:"Mongodb";}s:36:"fileoptlampplibphpCakeConsoleCommand";a:10:{i:0;s:8:"AclShell";i:1;s:8:"ApiShell";i:2;s:8:"AppShell";i:3;s:9:"BakeShell";i:4;s:16:"CommandListShell";i:5;s:12:"ConsoleShell";i:6;s:9:"I18nShell";i:7;s:11:"SchemaShell";i:8;s:14:"TestsuiteShell";i:9;s:12:"UpgradeShell";}s:15:"Console/Command";a:0:{}}}
