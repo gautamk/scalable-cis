@@ -186,3 +186,261 @@
 2012-02-29 17:06:52 Error: [MissingControllerException] Controller class ImagesController could not be found.
 #0 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2012-03-01 02:11:20 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-01 02:11:25 Error: [MissingViewException] View file "/home/gautam/public_html/Scalable-CIS/scis/View/Themed/Bootstrap/Tickets/json/index.ctp" is missing.
+#0 /opt/lampp/lib/php/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /opt/lampp/lib/php/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-03-01 02:12:22 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-01 02:12:25 Error: [MissingActionException] Action TicketsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 02:12:34 Error: [MissingActionException] Action TicketsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 02:13:20 Error: [MissingActionException] Action TicketsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 02:15:24 Error: [MissingActionException] Action TicketsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 02:19:48 Error: [MissingActionException] Action TicketsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 02:52:02 Error: [MissingActionException] Action TicketsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 02:52:16 Error: [MissingActionException] Action TicketsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 02:53:34 Error: [MissingActionException] Action TicketsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 03:11:29 Error: [MissingActionException] Action TicketsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 03:11:52 Error: [MissingActionException] Action TicketsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 03:13:18 Error: [MissingActionException] Action TicketsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 03:13:42 Error: [MissingActionException] Action TicketsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 03:16:45 Error: [MissingActionException] Action TicketsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 03:17:26 Error: [MissingActionException] Action TicketsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 03:19:48 Error: [MissingActionException] Action TicketsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 03:19:56 Error: [MissingActionException] Action TicketsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 03:20:01 Error: [MissingActionException] Action TicketsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 03:20:10 Error: [MissingActionException] Action TicketsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 03:20:20 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-01 03:22:49 Error: [MissingActionException] Action TicketsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 03:22:56 Error: [MissingActionException] Action TicketsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 03:23:12 Error: [MissingActionException] Action TicketsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 03:23:19 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-01 03:24:19 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-01 03:24:25 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-01 03:24:31 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-01 03:24:38 Error: [MissingActionException] Action TicketsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 03:24:43 Error: [MissingActionException] Action TicketsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 03:24:49 Error: [MissingActionException] Action TicketsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 03:24:51 Error: [MissingActionException] Action TicketsController::blank() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 03:24:54 Error: [MissingActionException] Action TicketsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 03:25:02 Error: [MissingActionException] Action TicketsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 03:25:07 Error: [MissingActionException] Action TicketsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 03:25:27 Error: [MissingActionException] Action TicketsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 03:26:04 Error: [MissingActionException] Action TicketsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 03:26:07 Error: [MissingActionException] Action TicketsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 03:26:11 Error: [MissingActionException] Action TicketsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 03:26:12 Error: [MissingActionException] Action TicketsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 03:26:27 Error: [MissingActionException] Action TicketsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 03:26:31 Error: [MissingActionException] Action TicketsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 03:26:32 Error: [MissingActionException] Action TicketsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 03:26:34 Error: [MissingActionException] Action TicketsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 03:26:36 Error: [MissingActionException] Action TicketsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 03:26:48 Error: [MissingActionException] Action TicketsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 03:26:51 Error: [MissingActionException] Action TicketsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 03:28:50 Error: [MissingActionException] Action TicketsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 03:30:01 Error: [MissingActionException] Action TicketsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 03:30:02 Error: [MissingActionException] Action TicketsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 05:23:53 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-01 05:23:55 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-01 05:23:57 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-01 05:23:58 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-01 05:24:00 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/Scalable-CIS/scis/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}

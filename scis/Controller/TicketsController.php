@@ -9,10 +9,6 @@ class TicketsController extends AppController{
     }
     public $name = 'Tickets';
     public function index(){
-    	
-    }
-
-    public function data_index(){
     	$params = array(
 			'fields' => array('subject', 'body'),
 			//'fields' => array('Post.title', ),
@@ -26,6 +22,7 @@ class TicketsController extends AppController{
 		$results = $this->Ticket->find('all', $params);
 		$this->set(compact('results'));
     }
+
 
     public function add() {
 		if (!empty($this->data)) {

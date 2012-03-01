@@ -43,4 +43,6 @@
  */
 	require CAKE . 'Config' . DS . 'routes.php';
 
+	Router::mapResources('tickets');
+
 	Router::parseExtensions();
