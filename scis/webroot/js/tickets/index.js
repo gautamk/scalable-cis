@@ -5,13 +5,13 @@
 	window.Ticket = Backbone.Model.extend({});
 	window.Tickets = Backbone.Collection.extend({
 		model:Ticket,
-		url:window.location.href+'.json',
+		url:window.location.pathname+'.json',
 	});
 
 	window.ticketCounter = new Tickets();
 
 	window.TicketView = Backbone.View.extend({
-		tagName:'li',
+		tagName:'tr',
 		className:'ticket',
 		initialize:function(){
 			_.bindAll(this,'render');
@@ -53,6 +53,7 @@
 	window.TicketRouter = Backbone.Router.extend({
 		routes:{
 			'':'home',
+			'home':'home',
 			'blank':'blank',
 		},
 		initialize:function(){

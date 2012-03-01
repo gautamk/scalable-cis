@@ -1,19 +1,29 @@
 <a href="#blank">BLANK</a>
-<a href="">TICKETS</a>
+<a href="#home">TICKETS</a>
+
+
 <span id="Time"></span>
 <script type="text/template" id="ticket-template" >
-<h4>
-  Ticket
-</h4>
-<span class="ticket-id" ><%= Ticket._id %></span>
-<span class="ticket-subject" ><%= Ticket.subject %></span>
-<span class="ticket-body" ><%= Ticket.body %></span>
+
+<td class="ticket-id" ><%= Ticket._id %></td>
+<td class="ticket-subject" ><%= Ticket.subject %></td>
+<td class="ticket-body" ><%= Ticket.body %></td>
+
 </script>
 <script type="text/template" id="tickets-template" >
 <h4>
   Tickets
 </h4>
-<ul id="" class="tickets">
-</ul><!-- / -->
+<button class="btn btn-info" onclick="window.ticketCounter.fetch();">Refresh</button>
+
+<table id="" class="tickets table-bordered table-condensed table-striped">
+<thead>
+		<tr>
+			<th>ID</th>
+			<th>Subject</th>
+			<th>Body</th>
+		</tr>
+</thead>
+</table><!-- / -->
 </script>
 <div id="ticket-container" ></div>
